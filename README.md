@@ -44,5 +44,3 @@ Contributions to this repository are welcome. If you have any suggestions, impro
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
 
 ---
-
-**Note**: Replace "your-username" in the repository URL with your actual GitHub username if you fork this repository.
